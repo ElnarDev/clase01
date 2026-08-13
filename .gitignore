@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de configuración (Variables de entorno con datos sensibles)
+.env
+retos/.env
+
+# Python cache / Compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
